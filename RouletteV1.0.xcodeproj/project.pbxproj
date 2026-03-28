@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		769F906B2F77B95700852BB2 /* RouletteV1.0 */ = {
+		769135AE2F7884CC007C14CF /* RouletteV1.0 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = RouletteV1.0;
 			sourceTree = "<group>";
@@ -32,7 +32,7 @@
 		769F90602F77B95700852BB2 = {
 			isa = PBXGroup;
 			children = (
-				769F906B2F77B95700852BB2 /* RouletteV1.0 */,
+				769135AE2F7884CC007C14CF /* RouletteV1.0 */,
 				769F906A2F77B95700852BB2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				769F906B2F77B95700852BB2 /* RouletteV1.0 */,
+				769135AE2F7884CC007C14CF /* RouletteV1.0 */,
 			);
 			name = RouletteV1.0;
 			packageProductDependencies = (
