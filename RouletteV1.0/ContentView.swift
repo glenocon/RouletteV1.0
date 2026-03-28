@@ -1,0 +1,24 @@
+//
+//  ContentView.swift
+//  RouletteV1.0
+//
+//  Created by Glen O'Connor on 28/3/2026.
+//
+
+import SwiftUI
+
+struct ContentView: View {
+    var body: some View {
+        VStack {
+            Image(systemName: "globe")
+                .imageScale(.large)
+                .foregroundStyle(.tint)
+            Text("Hello, world!")
+        }
+        .padding()
+    }
+}
+
+#Preview {
+    ContentView()
+}
